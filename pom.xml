@@ -4,6 +4,9 @@
   <groupId>com.examples</groupId>
   <artifactId>books-toby-spring31</artifactId>
   <version>1.0-SNAPSHOT</version>
+  <modules>
+    <module>chap1/chap1</module>
+  </modules>
   <packaging>pom</packaging>
   <name>books-toby-spring31</name>
 </project>
